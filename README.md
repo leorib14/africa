@@ -1,7 +1,3 @@
-# myrepo
+# História da África
 
-This is a line from RStudio
-
-Line added from GitHub
-
-Agora estou criando algo pensado.
+Resolvi aprender o Git a partir do curso da História da África
